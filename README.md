@@ -1,0 +1,1 @@
+# bdshop.com-Manual-Testing-Project-
